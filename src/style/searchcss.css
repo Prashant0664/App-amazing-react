@@ -1,0 +1,182 @@
+/* 
+    JAI SHRI RAM
+*/
+
+.top-title-containera{
+    height:30px;
+    background-color: rgb(249, 243, 243);
+    margin:5px  0px;
+    border-color: black;
+    border-style: solid;
+    border-width:1px 0px;
+    text-align: center;
+    width: 100%;
+}
+.top-title-boxa{
+    align-items: center;
+    height:100%;text-align: center;
+    width: 100%;
+    display: inline-flex;
+    justify-content: center;
+
+}
+.header-menu-logos{
+    height:30px;
+}
+
+
+/*  */
+
+
+
+.smain-container-box{
+    display: flex;
+}
+.sidefs{
+    width:150px;
+    /* background-color: pink; */
+    height:100%;
+}
+.smain-cont-list-st{
+    /* background-color: pink; */
+    /* overflow-y: scroll; */
+    margin-left: 80px;
+    margin-top:10px;
+}
+.smain-list-s{
+    display: flex;
+    /* grid-template-columns: auto auto auto; */
+    /* justify-content: space-ar; */
+}
+
+.sitem-box{
+    /* display: block; */
+    /* width:100%; */
+    background-color: red;
+    /* height:280px; */
+}
+.sitem-image{
+    display: block;
+    height:240px;
+    width:240px;
+    padding:10px;
+    background-color: rgb(222, 238, 252);
+}
+.spics{
+    width:240px;
+    height:240px;
+    cursor: pointer;
+}
+.spics:hover{
+    /* display: block; */
+    position: absolute;
+    z-index: 100;
+    height:400px;
+    width:400px;
+    transition: 0.5s;
+}
+.smail-right-box{
+    background-color: white;
+
+}
+.smail-right-box{
+    color: #0F1111!important;
+    text-rendering: optimizeLegibility;
+}
+.sitem-name{
+    font-size: 18px;
+    line-height: 24px!important;
+    font-weight: 400!important;
+    font-style: normal!important;
+    text-transform: none!important;
+    text-decoration: none!important;
+    cursor: pointer;
+}
+.sitem-rating{
+    display: flex;
+    margin-top:8px;
+}
+.sitem-dotd{
+    color:white;
+    margin-top: 7px;
+    background-color: rgb(232, 75, 75);
+    width:fit-content;
+    padding:3px;
+    font-size: 15px;
+    border-radius: 4px;
+    margin-left:10px;
+}
+.sitem-cost{
+    margin-left:10px;
+    font-size: 30px;
+    justify-content: baseline;
+    display: flex;
+    margin-top:10px;
+}
+.sitem-cost3{
+    color:rgba(0,0,0,0.5);
+    font-size: 20px;
+    align-self: baseline;
+    align-items: baseline;
+    margin-top: 9px;
+}
+.sitem-save{
+    color:rgba(0,0,0,0.5);
+    margin-left:10px;
+    font-size: 17px;
+    margin-top:8px;
+}
+.sitem-orderdate{
+    margin-top:8px;
+    display: flex;
+}
+.gibd{
+    font-weight: 700;
+}
+.mrh{
+    margin-left: 10px;
+}
+.fda1{
+    margin-top: 10px;
+}
+.lazing:hover{
+    cursor: pointer;
+    color: red;
+}
+/* .main-boxp{ */
+    /* font-family:; */
+/* } */
+
+
+
+
+/*  */
+.sfixed{
+    display: block;
+    position: fixed;
+    background-color: rgb(3,3,61);
+    width:150px;
+    height:1000px;
+    margin-top: -300px;
+    z-index: -110;
+    margin-left: 0px;
+}
+.header-menu-logoms{
+    transform: rotate(-90deg);
+    /* background-color: rgb(3,3,61); */
+    /* margin-left:-170px;
+    margin-top: 520px; */
+    /* display: block; */
+    margin-top: 498px;
+    width:560px;
+    z-index:-100;
+    margin-left: -220px;
+    position: fixed;
+}
+.smain-list-s{
+    margin-top: 10px;
+}
+
+/*  */
+
+
